@@ -1,0 +1,15 @@
+{
+    "basePath": "./bin",
+    "targetPath": "./out",
+    "<optional>allowPathOverwrite": false,
+    "<optional>force": false,
+    "instruct": {
+        "nationName": {
+            "nationTag": "",
+            "nationCap": -1,
+            "templateFiles": [],
+            "<optional>templateOverwritePath": "./bin",
+            "<optional>targetOverwritePath": "./out"
+        }
+    }
+}

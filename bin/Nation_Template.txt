@@ -1,0 +1,88 @@
+﻿capital = 
+
+oob = 
+
+
+set_technology = {
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = opposition
+	elections_allowed = no
+}
+set_popularities = {
+	opposition = 100
+}
+
+add_ideas = {
+	general_absence
+	anarchist
+	autarky
+	undisturbed_isolation
+	disarmed_nation
+}
+
+create_country_leader = {
+	name = "Goblin Chieftain"
+	picture = "goblin_chief.dds"
+	ideology = sub_opposition
+	traits = {
+	}
+}
+
+
+create_corps_commander = {
+	name = "Goblin"
+	picture = "goblin.dds"
+	traits = {}
+	skill = 0
+	attack_skill = 0
+	defense_skill = 0
+	planning_skill = 0
+	logistics_skill = 0
+}
+
+create_corps_commander = {
+	name = "Goblin"
+	picture = "goblin.dds"
+	traits = {}
+	skill = 0
+	attack_skill = 0
+	defense_skill = 0
+	planning_skill = 0
+	logistics_skill = 0
+}
+
+create_corps_commander = {
+	name = "Goblin"
+	picture = "goblin.dds"
+	traits = {}
+	skill = 0
+	attack_skill = 0
+	defense_skill = 0
+	planning_skill = 0
+	logistics_skill = 0
+}
+
+create_corps_commander = {
+	name = "Goblin"
+	picture = "goblin.dds"
+	traits = {}
+	skill = 0
+	attack_skill = 0
+	defense_skill = 0
+	planning_skill = 0
+	logistics_skill = 0
+}
+
+create_corps_commander = {
+	name = "Goblin"
+	picture = "goblin.dds"
+	traits = {}
+	skill = 0
+	attack_skill = 0
+	defense_skill = 0
+	planning_skill = 0
+	logistics_skill = 0
+}
